@@ -7,3 +7,9 @@ The FER13 dataset is a widely used dataset for training emotion detection models
 * Opencv
 * keras
 
+# File description
+* model_training.ipynb - Data exploration, pre-processing and modelling was done here
+* test.ipynb - contains code to detect facial expression in realtime using webcam
+* models - contains the caffe model, which was used for face detection and also the trained model (can be requested for)
+
+# Testing example
